@@ -1,0 +1,13 @@
+a {
+    font-size: 14px;
+    color: red;
+}
+
+a:hover {
+    color: green;
+    transition: .7s;
+}
+
+img {
+  width: 300px;   
+}
